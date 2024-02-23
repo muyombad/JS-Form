@@ -1,0 +1,75 @@
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+#email {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#password {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#username {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.but {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 47%;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+.hed{
+    background-color: rgb(63, 60, 60);
+    color: white;
+    display: grid;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;   
+}
+.red{
+    background-color: #ccc;
+}
+.red:hover{
+    background-color: #888787;
+}
+a{
+    color: green;
+    cursor: pointer;
+}
+li{
+    text-decoration: none;
+}
