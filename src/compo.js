@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-import "./main.css"
+import "./main.cs"
 function Me() {
 
 const [log, inp] = useState('Sin Up')   
